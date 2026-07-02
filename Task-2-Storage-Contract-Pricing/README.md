@@ -29,8 +29,9 @@ The model estimates contract profitability by considering injection and withdraw
 
 ## Files
 
-- `pricing_model.py` — Storage pricing model
-- `example_output.png` — Sample output
+- `JP Morgan Task 2.py` — Storage pricing model
+- `Nat_Gas.csv` — Excel csv
+- `Contract-Execution-Summary.png` — Sample output
 
 ## Skills Demonstrated
 
