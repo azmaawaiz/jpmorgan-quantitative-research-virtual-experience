@@ -32,7 +32,8 @@ The resulting buckets improve interpretability while maintaining predictive perf
 
 - `JP Morgan Task 4.py`
 - `Task 3 and 4_Loan_Data.csv`
-- `quantization_results.png`
+- `Rating-Map-Visualisation.png`
+- `Output.png`
 
 ## Skills Demonstrated
 
