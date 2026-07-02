@@ -32,7 +32,7 @@ The model identifies historical trends and seasonal patterns in gas prices to pr
 ## Files
 
 - `JP Morgan Task 1.py` — Main forecasting script
-- `gas_prices.csv` — Historical dataset
+- `Net_Gas.csv` — Historical dataset
 - `forecast_plot.png` — Forecast visualization
 
 ## Skills Demonstrated
