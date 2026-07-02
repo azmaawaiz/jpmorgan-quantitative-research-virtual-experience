@@ -30,9 +30,9 @@ Historical borrower information was used to train and evaluate a predictive mode
 
 ## Files
 
-- `credit_risk_model.py`
-- `dataset.csv`
-- `confusion_matrix.png`
+- `JP Morgan Task 3.py`
+- `Task 3 and 4_Loan_Data.csv` Historical Data
+- `Customer-PD-Example.png`
 
 ## Skills Demonstrated
 
