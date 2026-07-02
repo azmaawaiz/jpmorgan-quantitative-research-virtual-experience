@@ -34,7 +34,8 @@ The model identifies historical trends and seasonal patterns in gas prices to pr
 - `JP Morgan Task 1.py` 
 - `Nat_Gas.csv` 
 - `12-Month-Forecast.png` 
-- `Price-Estimator.png` 
+- `Price-Estimator.png`
+- `Future-Price-Graph.png`
 
 ## Skills Demonstrated
 
