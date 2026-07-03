@@ -32,7 +32,8 @@ The model estimates contract profitability by considering injection and withdraw
 - `JP Morgan Task 2.py`
 - `Nat_Gas.csv` 
 - `Contract-Execution-Summary.png` 
-
+- `JPMC_Task 1_Example Answer.docx`
+  
 ## Skills Demonstrated
 
 - Financial Modeling
