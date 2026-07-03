@@ -34,6 +34,7 @@ The resulting buckets improve interpretability while maintaining predictive perf
 - `Task 3 and 4_Loan_Data.csv`
 - `Rating-Map-Visualisation.png`
 - `Output.png`
+- `JPMC_Task 4_Example Answer.docx`
 
 ## Skills Demonstrated
 
