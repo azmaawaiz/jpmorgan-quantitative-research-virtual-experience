@@ -33,6 +33,7 @@ Historical borrower information was used to train and evaluate a predictive mode
 - `JP Morgan Task 3.py`
 - `Task 3 and 4_Loan_Data.csv` 
 - `Customer-PD-Example.png`
+- `JPMC_Task 3_Example Answer.docx`
 
 ## Skills Demonstrated
 
