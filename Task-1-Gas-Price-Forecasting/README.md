@@ -36,6 +36,7 @@ The model identifies historical trends and seasonal patterns in gas prices to pr
 - `12-Month-Forecast.png` 
 - `Price-Estimator.png`
 - `Future-Price-Graph.png`
+- `JPMC_Task 1_Example Answer.docx`
 
 ## Skills Demonstrated
 
